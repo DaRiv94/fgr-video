@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fgr-video/static/css/main.b100e6da.chunk.css",
-    "main.js": "/fgr-video/static/js/main.85f8461d.chunk.js",
-    "main.js.map": "/fgr-video/static/js/main.85f8461d.chunk.js.map",
+    "main.css": "/fgr-video/static/css/main.7473f7be.chunk.css",
+    "main.js": "/fgr-video/static/js/main.dac6da72.chunk.js",
+    "main.js.map": "/fgr-video/static/js/main.dac6da72.chunk.js.map",
     "runtime-main.js": "/fgr-video/static/js/runtime-main.2091e7d7.js",
     "runtime-main.js.map": "/fgr-video/static/js/runtime-main.2091e7d7.js.map",
     "static/js/2.6f815b4a.chunk.js": "/fgr-video/static/js/2.6f815b4a.chunk.js",
     "static/js/2.6f815b4a.chunk.js.map": "/fgr-video/static/js/2.6f815b4a.chunk.js.map",
     "index.html": "/fgr-video/index.html",
-    "precache-manifest.d8f02a64f745d8ab63858fc99035c509.js": "/fgr-video/precache-manifest.d8f02a64f745d8ab63858fc99035c509.js",
+    "precache-manifest.010b2520bdf8d811bd06c95d26c1d2a7.js": "/fgr-video/precache-manifest.010b2520bdf8d811bd06c95d26c1d2a7.js",
     "service-worker.js": "/fgr-video/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/fgr-video/static/css/main.b100e6da.chunk.css.map"
+    "static/css/main.7473f7be.chunk.css.map": "/fgr-video/static/css/main.7473f7be.chunk.css.map"
   }
 }

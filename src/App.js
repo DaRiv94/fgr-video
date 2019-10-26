@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
+        <h1>
           FGR Video
-        </p>
+        </h1>
         <a
           className="App-link"
           href="http://frankieriviera.com"

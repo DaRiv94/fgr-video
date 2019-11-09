@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fgr-video/static/css/main.7473f7be.chunk.css",
-    "main.js": "/fgr-video/static/js/main.dac6da72.chunk.js",
-    "main.js.map": "/fgr-video/static/js/main.dac6da72.chunk.js.map",
-    "runtime-main.js": "/fgr-video/static/js/runtime-main.2091e7d7.js",
-    "runtime-main.js.map": "/fgr-video/static/js/runtime-main.2091e7d7.js.map",
-    "static/js/2.6f815b4a.chunk.js": "/fgr-video/static/js/2.6f815b4a.chunk.js",
-    "static/js/2.6f815b4a.chunk.js.map": "/fgr-video/static/js/2.6f815b4a.chunk.js.map",
-    "index.html": "/fgr-video/index.html",
-    "precache-manifest.010b2520bdf8d811bd06c95d26c1d2a7.js": "/fgr-video/precache-manifest.010b2520bdf8d811bd06c95d26c1d2a7.js",
-    "service-worker.js": "/fgr-video/service-worker.js",
-    "static/css/main.7473f7be.chunk.css.map": "/fgr-video/static/css/main.7473f7be.chunk.css.map"
+    "main.css": "/static/css/main.7473f7be.chunk.css",
+    "main.js": "/static/js/main.4200b75e.chunk.js",
+    "main.js.map": "/static/js/main.4200b75e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b027bd41.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b027bd41.js.map",
+    "static/js/2.6f815b4a.chunk.js": "/static/js/2.6f815b4a.chunk.js",
+    "static/js/2.6f815b4a.chunk.js.map": "/static/js/2.6f815b4a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dbf51ae8211890582d2eb969b6541829.js": "/precache-manifest.dbf51ae8211890582d2eb969b6541829.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7473f7be.chunk.css.map": "/static/css/main.7473f7be.chunk.css.map"
   }
 }

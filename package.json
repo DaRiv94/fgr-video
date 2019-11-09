@@ -2,7 +2,7 @@
   "name": "fgr-video",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://fgrvideo.com",
+  "homepage":"https://fgrvideo.com",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",

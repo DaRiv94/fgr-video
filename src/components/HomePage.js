@@ -7,7 +7,7 @@ export class HomePage extends Component {
             <div>
                 <header className="App-header">
                     <h1>
-                        FGR Video with cname change
+                        FGR Video
                     </h1>
                     <a
                         className="App-link"
